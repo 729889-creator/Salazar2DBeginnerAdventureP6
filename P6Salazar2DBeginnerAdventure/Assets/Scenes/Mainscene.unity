@@ -249,6 +249,46 @@ MonoBehaviour:
       m_Groups: 
       m_Action: Moveraction
       m_Flags: 8
+    - m_Name: 2D Vector
+      m_Id: 45c5e8e2-dc31-45de-b186-022d74fbbba2
+      m_Path: 2DVector
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Moveraction
+      m_Flags: 4
+    - m_Name: up
+      m_Id: bb9509d2-c899-47da-b36f-702cff8eca43
+      m_Path: 
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Moveraction
+      m_Flags: 8
+    - m_Name: down
+      m_Id: 6c4b4bc4-2262-4fb5-b73e-4dfcb1bec32d
+      m_Path: 
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Moveraction
+      m_Flags: 8
+    - m_Name: left
+      m_Id: 22868364-a4f5-46f2-97d3-4d142c9df214
+      m_Path: 
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Moveraction
+      m_Flags: 8
+    - m_Name: right
+      m_Id: dcb613de-4080-4b2c-be4c-152452a99452
+      m_Path: 
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Moveraction
+      m_Flags: 8
     m_Flags: 0
 --- !u!212 &321924415
 SpriteRenderer:
@@ -311,7 +351,7 @@ Transform:
   m_GameObject: {fileID: 321924413}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.15, y: 1.04, z: -10}
+  m_LocalPosition: {x: 0.27, y: 1, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
